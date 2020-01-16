@@ -1,4 +1,4 @@
-const formValidator = require('./form_validator');
+/* const formValidator = require('./form_validator');
 const photoModel = require('./photo_model');
 
 function route(app) {
@@ -40,3 +40,4 @@ function route(app) {
 }
 
 module.exports = route;
+*/
