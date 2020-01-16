@@ -14,7 +14,7 @@ describe('getFlickrPhotos(tags, tagmode, callback)', () => {
               {
                 "title": "Boating",
                 "media": {
-                  "m": "http://farm4.staticflickr.com/3727/12608622365_9e9b8b377d_m.jpg"
+                  "m": "http://farm4.staticfplickr.com/3727/12608622365_9e9b8b377d_m.jpg"
                 }
               },
               {
